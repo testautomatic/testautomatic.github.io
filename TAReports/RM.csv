@@ -1,0 +1,13 @@
+date,open,high,low,close,volume,oi,RM_Date,Domain,Funding_Type,Programme_Name,WorkStream,Project_Name,Cost_Object,Resource_Name,GPN,FTE_Utilization,FTE_Utilization_dets,Outsource_Vendor,OFF_ON,Location,Role,Rank,Role_Summary,OutSource_DayRate,Rate_Override,Annual_Cost,Total_Cost
+11/01/85,115.48,116.78,115.48,116.28,900900,0,Jan-17,Accounts,CorpAccounts,Ops,CTX,ADOP,COFV17,Ria,9874943,0.8,0.2,Citibank,OFF,UK,CA,1,Zurich,6025,6025,39187,39187
+12/01/85,115.48,116.78,115.48,116.28,900900,0,Feb-17,Accounts,CorpAccounts,Ops,CTX,ADOP,COFV17,Ria,9874943,0,1,Citibank,ON,UK,CA,1,Zurich,6025,6025,39187,39187
+13/01/85,115.48,116.78,115.48,116.28,900900,0,Mar-17,Accounts,CorpAccounts,Ops,CTX,ADOP,COFV17,Ria,9874943,0.7,0.3,Citibank,OFF,UK,CA,1,Zurich,6025,6025,39187,39187
+14/01/85,115.48,116.78,115.48,116.28,900900,0,Apr-17,HumanRes,PayrollCorp,Dev,CMMIT,Workflow,HRCOB98,John,7459393,1,0,HSBC,ON,Canada,HR,2,Zurich,6025,6025,45678,45678
+15/01/85,115.48,116.78,115.48,116.28,900900,0,May-17,HumanRes,PayrollCorp,Dev,CMMIT,Workflow,HRCOB98,John,7459393,1,0,HSBC,OFF,Canada,HR,2,Zurich,9837,9837,45678,45678
+16/01/85,115.48,116.78,115.48,116.28,900900,0,Jun-17,HumanRes,PayrollCorp,Dev,CMMIT,Workflow,HRCOB98,John,7459393,0.5,0.5,HSBC,ON,Canada,HR,2,Zurich,9837,9837,45678,45678
+17/01/85,115.48,116.78,115.48,116.28,900900,0,Jul-17,Technology,TechCorp,ITID,Java,AMEXTER,Tech6478,Sam,8270345,1,0,Barclays,OFF,Zurich,Developer,3,Zurich,9837,9837,45678,45678
+18/01/85,115.48,116.78,115.48,116.28,900900,0,Aug-17,Technology,TechCorp,ITID,Java,AMEXTER,Tech6478,Sam,8270345,0,1,Barclays,ON,Zurich,Developer,3,Zurich,9837,9837,91087,91087
+19/01/85,115.48,116.78,115.48,116.28,900900,0,Sep-17,Technology,TechCorp,ITID,Java,AMEXTER,Tech6478,Sam,8270345,0.5,0.5,Barclays,OFF,Zurich,Developer,3,Zurich,1389,1389,91087,91087
+20/01/85,115.48,116.78,115.48,116.28,900900,0,Oct-17,Support,SupportCorp,Tech,Unix,SPRK,Supp093,Lary,2345870,0.9,0.1,JPMC,ON,USA,Support,4,Zurich,1389,1389,91087,91087
+21/01/85,115.48,116.78,115.48,116.28,900900,0,Nov-17,Support,SupportCorp,Tech,Unix,SPRK,Supp093,Lary,2345870,0,1,JPMC,OFF,USA,Support,4,Zurich,1389,1389,91087,91087
+22/01/85,115.48,116.78,115.48,116.28,900900,0,Dec-17,Support,SupportCorp,Tech,Unix,SPRK,Supp093,Lary,2345870,0.4,0.6,JPMC,ON,USA,Support,4,Zurich,1389,1389,87920,87920
